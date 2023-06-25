@@ -4,6 +4,7 @@ const Titulo = () => {
   return (
     <div>
       <h1>ADIVINA EL NUMERO</h1>
+      <h3>Esta es la rama prueba</h3>
       <hr />
       <img
         style={{ width: "40%", height: "60vh" }}
